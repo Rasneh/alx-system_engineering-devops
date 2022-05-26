@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "whoami" "u="$USER"" "id -u -n" "id -u"
+"whoami" "u="$USER"" "id -u -n" "id -u"
