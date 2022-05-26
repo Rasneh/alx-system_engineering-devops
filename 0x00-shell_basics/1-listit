@@ -1,2 +1,2 @@
 #!/bin/bash
-"ls -a"
+chmod 755 "ls -a"
