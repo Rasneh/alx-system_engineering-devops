@@ -1,2 +1,2 @@
 #!bin/bash
-absolute path comman
+absolute path command
